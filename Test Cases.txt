@@ -1,0 +1,15 @@
+TEST CASES
+
+USER TEST CASES
+1.Verify that all the user is able to create account.
+2.Verify that all the user is able to navigate through all the products.
+3.Verify that all the text-product,name,description,amount is clearly visible
+4.Verify that all the user is able to add the products to the cart. 
+5.Whether all the products and their total amount is displayed in user cart
+6.Verify that all the user can remove specific product from cart
+7.Verify that not filling the mandotary fields and clicking the submit button will lead to validation error
+
+ADMIN TEST CASES
+1.To verify that admin able to register
+2.To verify that admin is able to add and remove products,product name/description/amount
+3.To verify that admin is able access the database
